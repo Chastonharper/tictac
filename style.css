@@ -7,4 +7,21 @@
     height: 100px;
     width: 100px;
     clear: both;
+    margin: auto;
+    width: 302px;
+}
+
+.topleft {
+    border-bottom: 1px black solid
+
+}
+
+.topmiddle {
+    border-bottom: 1px black solid
+
+}
+
+.topright {
+    border-bottom: 1px black solid
+
 }
