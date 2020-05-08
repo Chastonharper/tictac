@@ -2,26 +2,33 @@
     padding-top: 3em;
     text-align: center;
 }
-.row {
+
+.row > div {
     float: left;
     height: 100px;
     width: 100px;
+}
+
+.row {
     clear: both;
     margin: auto;
     width: 302px;
 }
 
-.topleft {
-    border-bottom: 1px black solid
-
+.top { 
+    border-bottom: 1px black solid;
+   
 }
-
-.topmiddle {
-    border-bottom: 1px black solid
-
+.bottom {
+    border-top: 1px  black solid;
+    
 }
-
-.topright {
-    border-bottom: 1px black solid
+.left {
+    border-right: 1px black solid;
+    
+}
+.right{
+    border-left: 1px black solid;
+   
 
 }
